@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Clima</string>
+
+    <string name="hint_buscar_ciudad">Buscar ciudad</string>
+    <string name="boton_geo">Usar mi ubicación</string>
+    <string name="error_buscar_ciudad">Error al buscar ciudades</string>
+    <string name="error_geolocalizacion">Error al obtener geolocalización</string>
+
+    <string name="temperatura_label">Temperatura:</string>
+    <string name="humedad_label">Humedad:</string>
+    <string name="estado_label">Estado:</string>
+    <string name="boton_cambiar_ciudad">Cambiar Ciudad</string>
+    <string name="boton_compartir">Compartir</string>
+    <string name="mensaje_compartir_clima">Clima en %1$s: %2$s, %3$s</string>
+    <string name="titulo_compartir">Compartir Clima</string>
+    <string name="error_cargar_clima">Error al cargar el clima</string>
+
+    <string name="fecha_label">Fecha:</string>
+    <string name="maxima_label">Máx:</string>
+    <string name="minima_label">Mín:</string>
+
+    <string name="cargando">Cargando...</string>
+    <string name="error_general">Ocurrió un error inesperado</string>
+</resources>
